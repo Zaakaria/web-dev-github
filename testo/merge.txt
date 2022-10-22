@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merge this buddy
+=======
+merge this buddy right away ok
+>>>>>>> feature
